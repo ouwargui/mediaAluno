@@ -1,2 +1,2 @@
 # mediaAluno
-pequeno programa pra média de aluno.
+pequeno programa feito em python que calcula a média de um aluno.
